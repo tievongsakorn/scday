@@ -1,0 +1,40 @@
+.banner {
+    width: 100%;
+    background-color: $main-green;
+    // .container {
+        
+    // }
+}
+
+.home_btn-box {
+    // border: gray 2px solid;
+    text-align: center;
+    min-height: 5rem;
+    background-color: white;
+    color: black;
+    margin: auto;
+    padding: 0.5rem;
+    transition: 0.1s ease-in ;
+    
+}
+.home_btn-box:hover {
+    transition: 0.3s ease-in-out ;
+    transform: scale(1.05);
+    text-decoration: none;
+    color: black;
+
+}
+
+.carousel-cell {
+    margin-right: 1.5rem;
+    width: 300px;
+    height: 170px;
+    overflow: hidden;
+    border: black 3px solid;
+    img {
+        object-fit: cover;
+        width: 300px;
+        height: 170px;
+    }
+  }
+  

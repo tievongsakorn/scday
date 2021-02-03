@@ -1,0 +1,29 @@
+html {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #f8f8f8;
+    min-height: 100vh;
+    font-family: Kanit;
+    position: relative;
+}
+$main-green :#a0ce4e ;
+.nav-item {
+    margin-left: 1em;
+    margin-right: 1em;
+}
+footer {
+    color: whitesmoke;
+    background-color: rgb(66, 66, 66);
+    min-height: fit-content;
+    min-width: fit-content;
+    position: absolute;
+    padding: 1em;
+    left: 0;
+    bottom: -10em;
+    width: 100%;
+}
+$main-green :#a0ce4e ;
+@import "home";
