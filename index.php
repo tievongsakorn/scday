@@ -5,6 +5,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <link rel="stylesheet" href="asset/css/style.css">
+    <link rel="icon" href="asset/img/rmutl-logo.ico" type="image/icon type">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>สัปดาห์วิทยาศาสตร์</title>
@@ -40,20 +41,20 @@
         <div class="mx-auto d-sm-flex d-block flex-sm-nowrap">
             <div class="collapse navbar-collapse " id="navbarTogglerDemo03">
                 <ul class="navbar-nav text-center mr-auto mt-2 mt-lg-0">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="#">หน้าแรก <span class="sr-only">(current)</span></a>
+                    <li class="nav-item">
+                        <a class="nav-link" href="?page=home">หน้าแรก <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">สมัครเข้าร่วมประกวด</a>
+                        <a class="nav-link" href="?page=regis">สมัครเข้าร่วมประกวด</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">นิทรรศการออนไลน์</a>
+                        <a class="nav-link" href="?page=online-event">นิทรรศการออนไลน์</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">กำหนดการ</a>
+                        <a class="nav-link" href="?page=schedule">กำหนดการ</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">แผนที่จัดงาน/ติดต่อเรา</a>
+                        <a class="nav-link" href="?page=contact">แผนที่จัดงาน/ติดต่อเรา</a>
                     </li>
                 </ul>
             </div>
@@ -80,7 +81,7 @@
         <div class="row">
             <div class="col-6">
                 <p>
-                คณะวิทยาศาสตร์และเทคโนโลยีการเกษตร มหาวิทยาลัยเทคโนโลยีราชมงคลล้านาน ตาก
+                คณะวิทยาศาสตร์และเทคโนโลยีการเกษตร มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา ตาก
                 </p>
             </div>
             <div class="col-6">
