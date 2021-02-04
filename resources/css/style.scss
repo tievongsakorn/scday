@@ -34,9 +34,16 @@ $main-green :#a0ce4e ;
     a {
         font-size: 1.3rem;
     }
-    
 }
-
+.nav-link {
+    transition: all ease-in-out 0.1s;
+}
+.nav-link:hover {
+    background-color: gray;
+    transition: ease all 0.5s;
+    color: gold !important;
+    transform: scale(1.15);
+}
 footer {
     color: whitesmoke;
     background-color: rgb(66, 66, 66);
@@ -49,5 +56,8 @@ footer {
     width: 100%;
 }
 $main-green :#a0ce4e ;
+.table-bordered {
+    font-size: 1.2rem;
+}
 @import "home";
 @import "regis";
