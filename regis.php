@@ -2,7 +2,7 @@
     <h1>สมัครเข้าร่วมประกวด</h1>
     <hr>
     <div class="row mt-5">
-        <div class="col-12 col-xl-6 regis_box">
+        <div class="col-12 col-lg-6 regis_box">
             <div class="row regis_box-link">
                 <div class="col-2">
                     <img src="asset/img/rmutl-logo.png" width="100%" alt="">
@@ -21,7 +21,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-xl-6 regis_box">
+        <div class="col-12 col-lg-6 regis_box">
             <div class="row regis_box-link">
                 <div class="col-2">
                     <img src="asset/img/rmutl-logo.png" width="100%" alt="">
@@ -40,7 +40,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-xl-6 regis_box">
+        <div class="col-12 col-lg-6 regis_box">
             <div class="row regis_box-link">
                 <div class="col-2">
                     <img src="asset/img/rmutl-logo.png" width="100%" alt="">
@@ -59,7 +59,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-xl-6 regis_box">
+        <div class="col-12 col-lg-6 regis_box">
             <div class="row regis_box-link">
                 <div class="col-2">
                     <img src="asset/img/rmutl-logo.png" width="100%" alt="">
@@ -78,7 +78,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-xl-6 regis_box">
+        <div class="col-12 col-lg-6 regis_box">
             <div class="row regis_box-link">
                 <div class="col-2">
                     <img src="asset/img/rmutl-logo.png" width="100%" alt="">
@@ -97,7 +97,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-xl-6 regis_box">
+        <div class="col-12 col-lg-6 regis_box">
             <div class="row regis_box-link">
                 <div class="col-2">
                     <img src="asset/img/rmutl-logo.png" width="100%" alt="">
@@ -116,7 +116,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-xl-6 regis_box">
+        <div class="col-12 col-lg-6 regis_box">
             <div class="row regis_box-link">
                 <div class="col-2">
                     <img src="asset/img/rmutl-logo.png" width="100%" alt="">
@@ -135,7 +135,7 @@
                 </div>
             </div>                                                                                                     
         </div>
-        <div class="col-12 col-xl-6 regis_box">
+        <div class="col-12 col-lg-6 regis_box">
             <div class="row regis_box-link">
                 <div class="col-2">
                     <img src="asset/img/rmutl-logo.png" width="100%" alt="">
@@ -154,7 +154,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-12 col-xl-6 regis_box">
+        <div class="col-12 col-lg-6 regis_box">
             <div class="row regis_box-link">
                 <div class="col-2">
                     <img src="asset/img/rmutl-logo.png" width="100%" alt="">

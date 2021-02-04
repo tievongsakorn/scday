@@ -35,7 +35,7 @@ html {
 }
 
 body {
-  background-color: #f8f8f8;
+  background-color: #f1f1f1;
   min-height: 100vh;
   font-family: Kanit;
   position: relative;
@@ -47,11 +47,12 @@ body {
 }
 
 .nav-item a {
-  font-size: 1.3rem;
+  font-size: 1.1rem;
 }
 
 .nav-link {
   transition: all ease-in-out 0.1s;
+  color: white !important;
 }
 
 .nav-link:hover {
@@ -59,6 +60,11 @@ body {
   transition: ease all 0.5s;
   color: gold !important;
   transform: scale(1.15);
+}
+
+.main__logo {
+  max-width: 5rem;
+  width: 100%;
 }
 
 footer {
@@ -81,6 +87,14 @@ footer {
   font-size: 1.2rem;
 }
 
+.mail {
+  color: black;
+}
+
+.mail:hover {
+  color: black;
+}
+
 .banner {
   width: 100%;
   background-color: #a0ce4e;
@@ -94,6 +108,8 @@ footer {
   margin: auto;
   padding: 0.5rem;
   transition: 0.1s ease-in;
+  border-radius: 2rem;
+  border: 2px white solid;
 }
 
 .home_btn-box:hover {
@@ -101,6 +117,7 @@ footer {
   transform: scale(1.05);
   text-decoration: none;
   color: black;
+  border: 2px #a0ce4e solid;
 }
 
 .carousel-cell {

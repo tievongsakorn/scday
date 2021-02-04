@@ -15,14 +15,15 @@
     margin: auto;
     padding: 0.5rem;
     transition: 0.1s ease-in ;
-    
+    border-radius: 2rem; 
+    border: 2px white solid;
 }
 .home_btn-box:hover {
     transition: 0.3s ease-in-out ;
     transform: scale(1.05);
     text-decoration: none;
     color: black;
-
+    border: 2px $main-green solid;
 }
 
 .carousel-cell {

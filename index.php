@@ -15,10 +15,12 @@
     <div class="head">
         <div class="container mt-2 mb-2">
             <div class="row">
-                <div class="col-1 mt-1">
-                    <img src="asset/img/rmutl-logo.png" alt="" width="100%">
+                <div class="col-12 col-lg-1 mt-1">
+                    <center>
+                        <a href="?page=home"><img class="main__logo" src="asset/img/rmutl-logo.png"></a>
+                    </center>
                 </div>
-                <div class="col-11">
+                <div class="col-12 col-lg-11">
                     <div class="row">
                         <div class="col-12">
                             <h1>สัปดาห์วิทยาศาสตร์</h1>
@@ -79,12 +81,12 @@
     <footer>
         <div class="container">
         <div class="row">
-            <div class="col-6">
+            <div class="col-12 col-xl-6">
                 <p>
                 คณะวิทยาศาสตร์และเทคโนโลยีการเกษตร มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา ตาก
                 </p>
             </div>
-            <div class="col-6">
+            <div class="col-12 col-xl-6">
                 <p>
                 Email : science_lannattak@hotmail.com
                 </p>
