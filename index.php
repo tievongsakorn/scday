@@ -95,7 +95,9 @@
             </div>
             <div class="col-12 col-xl-2">
                 <h6>จำนวนผู้เข้าชม</h6>                                 
-                <a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gveenokoo&nd=6&style=80" border="0" alt="free counter"></a> 
+                <!-- Start of WebFreeCounter Code -->
+                <a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=grmenokop&nd=6&style=80" border="0" alt="visitor counter"></a>
+                <!-- End of WebFreeCounter Code -->
             </div>
         </div>
         </div>
