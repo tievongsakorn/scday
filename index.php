@@ -80,21 +80,28 @@
     </div>
     <footer>
         <div class="container">
+
         <div class="row">
+            
             <div class="col-12 col-xl-6">
                 <p>
                 คณะวิทยาศาสตร์และเทคโนโลยีการเกษตร มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา ตาก
                 </p>
             </div>
-            <div class="col-12 col-xl-6">
+            <div class="col-12 col-xl-4">
                 <p>
                 Email : science_lannattak@hotmail.com
                 </p>
+            </div>
+            <div class="col-12 col-xl-2">
+                <h6>จำนวนผู้เข้าชม</h6>                                 
+                <a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gveenokoo&nd=6&style=80" border="0" alt="free counter"></a> 
             </div>
         </div>
         </div>
     </footer>
 </body>
+
 
 <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
